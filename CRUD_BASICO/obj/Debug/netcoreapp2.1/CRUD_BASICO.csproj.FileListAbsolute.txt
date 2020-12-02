@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\CRUD_BASICO.deps.json
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\CRUD_BASICO.runtimeconfig.json
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\CRUD_BASICO.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\CRUD_BASICO.dll
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.RazorAssemblyInfo.cache
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.RazorAssemblyInfo.cs
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\bin\Debug\netcoreapp2.1\CRUD_BASICO.pdb
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.dll
+C:\Users\lucas\source\repos\CRUD_BASICO\CRUD_BASICO\obj\Debug\netcoreapp2.1\CRUD_BASICO.pdb
